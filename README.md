@@ -11,7 +11,7 @@ Currently working on 2 projects.
 
 ### Side Projects
 
-[Krill You Bot](https://github.com/CharGoldenYT/KrillYouBot) is my Python bot I made for the funsies! Started out simple, then got complicated.
+- [Krill You Bot](https://github.com/CharGoldenYT/KrillYouBot) is my Python bot I made for the funsies! Started out simple, then got complicated.
 
 ## Contributions
 
