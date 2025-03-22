@@ -12,6 +12,6 @@ I also contributed to [Universe Engine](https://github.com/VideoBotYT/Universe-E
 
 ## TODO:
 
-- [ ] Make this look pretty
+- [x] Make this look pretty
 - [x] Add more useless shi-
 - [ ] Figure out LUA coding
