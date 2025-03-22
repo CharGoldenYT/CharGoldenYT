@@ -15,7 +15,8 @@ Currently working on 2 projects.
 
 ## Contributions
 
-I have contributed to [Universe Engine](https://github.com/VideoBotYT/Universe-Engine) via multiple PR's!
+- [Universe Engine](https://github.com/VideoBotYT/Universe-Engine) | Fixed multiple bugs via Pull Requests.
+- [Universe Engine Launcher](https://github.com/VideoBotYT/Universe-Engine-Launhcer) | Helped with preferences not saving twice.
 
 
 ## TODO:
