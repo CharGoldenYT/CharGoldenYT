@@ -1,4 +1,4 @@
-# Hey buddy, name's Char!
+# Hey buddy, name's Char! <img src="https://github.com/CharGoldenYT/CharGoldenYT/blob/main/cha.png?raw=true" width="48">
 
 ## Bio
 [I have a few discord servers](https://discord.vschar-official.com) and Mainly program in Haxe/HaxeFlixel, but occasionally use Python.
