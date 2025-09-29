@@ -1,4 +1,8 @@
-# Hey buddy, name's Char! <img src="https://github.com/CharGoldenYT/CharGoldenYT/blob/main/cha.png?raw=true" width="48">
+# Hey buddy, name's Char!
+
+<img src="https://github.com/CharGoldenYT/CharGoldenYT/blob/main/cha.png?raw=true" width="100">
+
+Sick as fuck icon <img src="https://cdn.discordapp.com/emojis/1416832525908574391.webp" width="24">
 
 ## Bio
 [I have a few discord servers](https://discord.vschar-official.com) and Mainly program in Haxe/HaxeFlixel, but occasionally use Python.
