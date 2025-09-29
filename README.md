@@ -5,7 +5,7 @@
 
 ## Projects
 
-Currently working on 3 projects. 
+Currently working on 5 projects. 
 - [VS Char FNF mod](https://github.com/CharGolden-Games/VSChar-Universe-Engine) | A stupid Frday Night Funkin mod I'm cookin' up, it's a bit burnt though as it's been cooking for 2+ years.
 - [Char's Adventure](https://github.com/CharGolden-Games/Char-s-Adventure) | A funny lil' standalone game that has no specific vision yet.
 - [Universe Engine](https://github.com/Team-UniverseEngine/Universe-Engine) | Sick as hell engine that I am officially on the team for!
