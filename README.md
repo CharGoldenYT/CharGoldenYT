@@ -14,7 +14,6 @@ Currently working on 6 projects.
 - [Char's Adventure](https://github.com/CharGolden-Games/Char-s-Adventure) | A funny lil' standalone game that has no specific vision yet.
 - [Universe Engine](https://github.com/Team-UniverseEngine/Universe-Engine) | Sick as hell engine that I am officially on the team for!
 - Char Engine (NO LINK YET) | Official Engine of the VS Char mod, mainly for stuff that I made a request to add into Universe Engine that got rejected for 1 reason or another.
-- Blue Engine (NO LINK YET) | Engine started by me and [@MC077](https://github.com/MC077) based on psych, to add some random shit
 - [Char's Song Visualizer](https://github.com/CharGoldenYT/Char-s-Song-Visualizer) | Little funny project that's meant to be a music player that allows for easy creation of visualizers.
 
 ### Side Projects
