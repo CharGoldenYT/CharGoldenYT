@@ -34,8 +34,8 @@ Currently working on 6 projects.
 - [ ] Krill You Bot Full Rewrite
 - [ ] Better Logs, but even better
 
-> I stole this from [BaranMuzu](https://github.com/BaranMuzu)
 # Stats:
+> I stole this from [BaranMuzu](https://github.com/BaranMuzu)
 
 [![Baran's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CharGoldenYT&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
