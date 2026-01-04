@@ -26,12 +26,16 @@ Currently working on 6 projects.
 
 
 ## TODO:
+- [ ] Baldi's Basics (Classic) HaxeFlixel Port
+- [ ] VS Char: The Official Demo
+- [ ] Universe Engine 1.0
+- [ ] Char Engine 1.0
+- [ ] Char's Song Visualizer Official Release
+- [ ] Krill You Bot Full Rewrite
+- [ ] Better Logs, but even better
 
-- [x] Make this look pretty
-- [x] Add more useless shi-
-- [ ] Figure out LUA coding
-
-# I stole this from [BaranMuzu](https://github.com/BaranMuzu)
+> I stole this from [BaranMuzu](https://github.com/BaranMuzu)
+# Stats:
 
 [![Baran's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CharGoldenYT&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
