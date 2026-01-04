@@ -33,6 +33,7 @@ Currently working on 6 projects.
 - [ ] Char's Song Visualizer Official Release
 - [ ] Krill You Bot Full Rewrite
 - [ ] Better Logs, but even better
+- [ ] change some of these to use icons instead
 
 # Stats:
 > I stole this from [BaranMuzu](https://github.com/BaranMuzu)
