@@ -37,6 +37,6 @@ Currently working on 6 projects.
 # Stats:
 > I stole this from [BaranMuzu](https://github.com/BaranMuzu)
 
-[![Baran's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CharGoldenYT&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Char's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CharGoldenYT&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![CharGoldenYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=chargoldenyt)](https://github.com/anuraghazra/github-readme-stats)
